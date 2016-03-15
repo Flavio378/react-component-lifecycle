@@ -21,7 +21,7 @@ class App extends React.Component{
     }
 
     componentWillUnmount(){
-        console.log('by');
+        console.log('bye');
     }
     render(){
         console.log('rendering');
